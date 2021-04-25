@@ -6,7 +6,7 @@
 **MingTHU/MingTHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I’m currently studying at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) for my master's degree.  
+- 🎓 I’m currently studying at [SIGS](https://www.sigs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn) for my master's degree.  
 - 💻 I’m currently working on natural language processing, text-to-speech synthesis, cross-language voice cloning.
 
 #### Educational Background:
