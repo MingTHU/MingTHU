@@ -7,7 +7,7 @@
 -->
 
 - 🎓 I’m currently studying at *[SIGS](https://www.sigs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn)* for my master's degree.  
-- 💻 I’m currently working on text-to-speech synthesis(TTS).
+- 💻 I’m currently working on text-to-speech synthesis (TTS).
 
 #### Educational Background:
 
