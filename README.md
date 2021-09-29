@@ -1,10 +1,8 @@
 ### Hi！ Here is Ming's profile. 👋
 
 ------
-
-<!--
-**MingTHU/MingTHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MingTHU.MingTHU.README)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MingTHU&show_icons=true">
 
 - 🎓 I’m currently studying at *[SIGS](https://www.sigs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn)* for my master's degree.  
 - 💻 I’m currently working on text-to-speech synthesis (TTS).
