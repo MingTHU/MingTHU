@@ -7,7 +7,7 @@
 
 #### Educational Background:
 
-- 2021-2024, M.S. in Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University
+- 2021-2024, M.S. in Shenzhen International Graduate School (SIGS), Tsinghua University
 - 2017-2021, B.S. in Department of Intelligence Science and Technology, South China University of Technology
 
 ------
