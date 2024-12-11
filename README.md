@@ -2,8 +2,8 @@
 
 ------
 
-- 🎓 I’m currently studying at *[SIGS](https://www.sigs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn)* for my master's degree.  
-- 💻 I’m currently working on text-to-speech (TTS), especially voice cloning.
+- 🎓 I am a master's graduate from *[SIGS](https://www.sigs.tsinghua.edu.cn/en), [Tsinghua University](https://www.tsinghua.edu.cn/en)*.  
+- 💻 I am interested in NLP and speech processing.
 
 #### Educational Background:
 
